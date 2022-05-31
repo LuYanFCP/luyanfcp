@@ -6,3 +6,7 @@
 + 希望把自己喜欢的事情做到极致。
 + Aliyun-存储自动运维平台开发工程师
 + SKill: Python、C/C++、Rust、Go、Javascript
+
++ 笔记📒:     
+  + (LevelDB源码阅读)[https://www.yuque.com/luyanfcp/hh4ggd]
+  + (日常积累笔记)[https://www.yuque.com/luyanfcp/ocxs16]
